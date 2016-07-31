@@ -1,0 +1,67 @@
+{
+    "manifest_version": 2,
+    "theme": {
+        "images": {
+            "theme_frame": "images/theme_frame.png",
+            "theme_toolbar": "images/theme_toolbar.png",
+            "theme_tab_background": "images/theme_tab_background.png"
+        },
+        "colors": {
+            "frame": [
+                36,
+                34,
+                31
+            ],
+            "toolbar": [
+                208,
+                223,
+                40
+            ],
+            "tab_text": [
+                205,
+                205,
+                205
+            ],
+            "tab_background_text": [
+                94,
+                124,
+                136
+            ],
+            "bookmark_text": [
+                94,
+                124,
+                136
+            ],
+            "ntp_background": [
+                75,
+                95,
+                109
+            ],
+            "ntp_text": [
+                0,
+                0,
+                0
+            ],
+            "button_background": [
+                54,
+                63,
+                69,
+                1
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        "properties": {
+            "ntp_background_alignment": "bottom",
+            "ntp_background_repeat": "no-repeat"
+        }
+    },
+    "name": "DarkSaffron",
+    "version": "1",
+    "description": "A minimialistic, dark theme based on Saffron umbrella by piahr"
+}
